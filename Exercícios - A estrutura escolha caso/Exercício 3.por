@@ -1,3 +1,7 @@
+/*
+ Escreva um algoritmo, que leia vários números e mostre o triplo de cada número.
+ */
+ 
 programa
 {
 	
@@ -32,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 311; 
+ * @POSICAO-CURSOR = 87; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
