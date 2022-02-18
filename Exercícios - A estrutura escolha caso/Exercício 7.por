@@ -1,3 +1,6 @@
+/*
+ Faça um algoritmo que leia um número que represente um determinado mês do ano. Após a leitura escreva por extenso qual o mês lido. Caso o número digitado não esteja na faixa de 1 a 12 escreva uma mensagem informando o usuário do erro da digitação
+ */
 programa
 {
 	
@@ -49,7 +52,7 @@ programa
 				}
 			
 				
-		}senao {
+		}senao {
 			escreva("digite um número válido")
 			}
 	}
@@ -59,7 +62,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 792; 
+ * @POSICAO-CURSOR = 188; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

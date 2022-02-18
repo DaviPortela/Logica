@@ -1,3 +1,6 @@
+/*
+ Faça um algoritmo que leia os valores A, B, C e diga se a soma de A + B é menor que C.
+ */
 programa
 {
 	
@@ -31,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 519; 
+ * @POSICAO-CURSOR = 90; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

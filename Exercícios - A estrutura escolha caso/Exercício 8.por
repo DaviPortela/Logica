@@ -1,3 +1,7 @@
+/*
+ Faça um algoritmo que calcule o IMC - índice de massa corpórea de uma pessoa, segundo a fórmula:
+IMC = peso * altura ∧ 2
+ */
 programa
 {
 	
@@ -18,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 212; 
+ * @POSICAO-CURSOR = 82; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
